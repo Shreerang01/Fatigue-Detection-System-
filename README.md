@@ -66,7 +66,7 @@ For Actual Implementation
 
     1. Clone this repository to your local machine.
 
-    2. Open the `main.ino` file using the Arduino IDE.
+    2. Open the `Fatigue Detection Hardware.ino` file using the Arduino IDE.
 
     3. Upload the code to your Arduino UNO R3.
 

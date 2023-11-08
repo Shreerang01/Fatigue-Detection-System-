@@ -79,10 +79,11 @@ For Actual Implementation
     7. Note the Obeservations
 ## Schematic
 
-![Schematic](Simulation on Tinkercad.png)
+![Schematic](https://github.com/Shreerang01/Fatigue-Detection-System-/assets/113919844/cc72423f-2a13-41d6-9ffd-17e2620c7ef9)
+
 ## Circuit Diagram
 
-![Schematic](https://github.com/Shreerang01/Fatigue-Detection-System-/assets/113919844/cc72423f-2a13-41d6-9ffd-17e2620c7ef9)
+
 
 ## Usage
 

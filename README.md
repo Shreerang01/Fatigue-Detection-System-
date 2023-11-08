@@ -83,6 +83,7 @@ For Actual Implementation
 
 ## Circuit Diagram
 
+![Circuit Diagram](https://github.com/Shreerang01/Fatigue-Detection-System-/assets/113919844/1b56f06a-4a8a-42d3-ae40-74f057a35d43)
 
 
 ## Usage

@@ -82,7 +82,8 @@ For Actual Implementation
 ![Schematic](Simulation on Tinkercad.png)
 ## Circuit Diagram
 
-![Schematic](Simulation on Tinkercad.png)
+![Schematic](https://github.com/Shreerang01/Fatigue-Detection-System-/assets/113919844/cc72423f-2a13-41d6-9ffd-17e2620c7ef9)
+
 ## Usage
 
 - **Vehicle Safety Enhancement:** The primary use of the system is to enhance vehicle safety by continuously monitoring the driver's condition, detecting signs of fatigue, and issuing alerts to ensure the driver remains alert while driving.
